@@ -12,7 +12,7 @@ Books I'm planning to read
 
 * Finish Practical Object Oriented Design in Ruby
 * Read more of Well-Grounded Rubyist
-* Start something Javascript-y?
+* Javascript & jQuery - John Duckett
 
 Interesting Articles I want to digest
 ----------
