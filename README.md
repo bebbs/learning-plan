@@ -35,7 +35,8 @@ Plan
 * Create an alternative front-end for the thermostat project.
 
 **Daily Plan**
-| Monday                | Tuesday               | Wednesday | Thursday | Friday |
-|-----------------------|-----------------------|-----------|----------|--------|
-| Node School tutorials |                       |           |          |        |
-| Finish slides for RWD lecture |               |           |          |        |
+| Monday  | Tuesday  | Wednesday | Thursday  | Friday   |
+|---|---|---|---|---|
+| Nodeschool Tutorials |   |   |   |   |
+| Finish RWD Lecture |   |   |   |   |
+| Decide on 2-3 day project  |   |   |   |   |
