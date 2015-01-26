@@ -34,9 +34,8 @@ Plan
 * Work out how to create a Ruby gem.
 * Create an alternative front-end for the thermostat project.
 
-**Daily Plan**
-| Monday  | Tuesday  | Wednesday | Thursday  | Friday   |
-|---|---|---|---|---|
-| Nodeschool Tutorials |   |   |   |   |
-| Finish RWD Lecture |   |   |   |   |
-| Decide on 2-3 day project  |   |   |   |   |
+| Monday  | Tuesday | Wednesday | Thursday | Friday
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Node School Tutorials |          |           |               |              |
+| Finish RWD Lecture |          |                 |                |                |
+| Research and decide on weekly project |          |                 |                |                |
