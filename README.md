@@ -17,7 +17,7 @@ Books I'm planning to read
 Interesting Articles I want to digest
 ----------
 
-* Some introductory articles / tutorials for Node.
+* Some introductory articles / tutorials for Node. - Nodeschool
 * Tutorials on how Ruby Gems work.
 
 Challenges
@@ -33,3 +33,9 @@ Plan
 * 2-3 day project with Luke - to be decided.
 * Work out how to create a Ruby gem.
 * Create an alternative front-end for the thermostat project.
+
+**Daily Plan**
+| Monday                | Tuesday               | Wednesday | Thursday | Friday |
+|-----------------------|-----------------------|-----------|----------|--------|
+| Node School tutorials |                       |           |          |        |
+| Finish slides for RWD lecture |               |           |          |        |
